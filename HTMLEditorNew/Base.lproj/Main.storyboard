@@ -127,7 +127,7 @@
                         <rightBarButtonItems>
                             <barButtonItem systemItem="play" id="WmQ-gj-WQW">
                                 <connections>
-                                    <action selector="InterpretButton:" destination="M2k-L8-Olo" id="6Q7-jT-IYv"/>
+                                    <action selector="btnShowWeb:" destination="M2k-L8-Olo" id="cae-Q5-8Ux"/>
                                     <segue destination="CPh-LS-nCo" kind="show" identifier="WebViewSegue" id="jpW-An-pTX"/>
                                 </connections>
                             </barButtonItem>
